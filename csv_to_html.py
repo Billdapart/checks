@@ -1,6 +1,8 @@
 
 #!/usr/bin/env python3
 
+# Usage- run 'python3 csv_to_html.py "your csv file" | Should save to same location
+
 import sys
 import csv
 import os
